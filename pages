@@ -1,9 +1,10 @@
 -index(主頁)
-    -user_login(使者登入)
+    -user_login(使者登入) //使用google帳號登入
     -user_add_form(使用者註冊)
 
 -main(使用者登入後主頁)
     -new_article(新增文章、貼文)
+    -art_edit(文章編輯)
 
 -cook_kan(食譜版)
     -cook_kan_rare(生食)
@@ -25,6 +26,7 @@
     -tra_day(一日遊)
 
 -profile(個人檔案)
-    -profile
-    -edit_pro(編輯個人檔案)
+    -profile(個人檔案)
+    -pro_edit(編輯個人檔案)
+    -pro_newpw(重設密碼)
     -user_logout(使用者登出)
