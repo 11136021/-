@@ -32,3 +32,6 @@
     -pro_newpw(重設密碼)
     -user_logout(使用者登出)
 -test(湘芸測試的東西勿動)
+-test2
+-post(文章內頁)
+-author(查看他人的個人檔案)
